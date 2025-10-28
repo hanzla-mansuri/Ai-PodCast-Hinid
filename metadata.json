@@ -1,0 +1,7 @@
+{
+  "name": "Podcast & Live Chat Generator",
+  "description": "Generate multi-speaker podcasts from lecture transcripts using text-to-speech. Engage in real-time voice conversations with Gemini's Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
